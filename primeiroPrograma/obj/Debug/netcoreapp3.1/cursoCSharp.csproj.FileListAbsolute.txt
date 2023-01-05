@@ -1,0 +1,13 @@
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\bin\Debug\netcoreapp3.1\cursoCSharp.exe
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\bin\Debug\netcoreapp3.1\cursoCSharp.deps.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\bin\Debug\netcoreapp3.1\cursoCSharp.runtimeconfig.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\bin\Debug\netcoreapp3.1\cursoCSharp.runtimeconfig.dev.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\bin\Debug\netcoreapp3.1\cursoCSharp.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\bin\Debug\netcoreapp3.1\cursoCSharp.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\obj\Debug\netcoreapp3.1\cursoCSharp.csprojAssemblyReference.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\obj\Debug\netcoreapp3.1\cursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\obj\Debug\netcoreapp3.1\cursoCSharp.AssemblyInfo.cs
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\obj\Debug\netcoreapp3.1\cursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\obj\Debug\netcoreapp3.1\cursoCSharp.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\obj\Debug\netcoreapp3.1\cursoCSharp.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\obj\Debug\netcoreapp3.1\cursoCSharp.genruntimeconfig.cache
