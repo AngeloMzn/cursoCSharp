@@ -1,0 +1,13 @@
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\entradaDeDadosCSharp\obj\Debug\netcoreapp3.1\entradaDeDadosCSharp.csprojAssemblyReference.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\entradaDeDadosCSharp\obj\Debug\netcoreapp3.1\entradaDeDadosCSharp.AssemblyInfoInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\entradaDeDadosCSharp\obj\Debug\netcoreapp3.1\entradaDeDadosCSharp.AssemblyInfo.cs
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\entradaDeDadosCSharp\obj\Debug\netcoreapp3.1\entradaDeDadosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\entradaDeDadosCSharp\bin\Debug\netcoreapp3.1\entradaDeDadosCSharp.exe
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\entradaDeDadosCSharp\bin\Debug\netcoreapp3.1\entradaDeDadosCSharp.deps.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\entradaDeDadosCSharp\bin\Debug\netcoreapp3.1\entradaDeDadosCSharp.runtimeconfig.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\entradaDeDadosCSharp\bin\Debug\netcoreapp3.1\entradaDeDadosCSharp.runtimeconfig.dev.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\entradaDeDadosCSharp\bin\Debug\netcoreapp3.1\entradaDeDadosCSharp.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\entradaDeDadosCSharp\bin\Debug\netcoreapp3.1\entradaDeDadosCSharp.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\entradaDeDadosCSharp\obj\Debug\netcoreapp3.1\entradaDeDadosCSharp.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\entradaDeDadosCSharp\obj\Debug\netcoreapp3.1\entradaDeDadosCSharp.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\entradaDeDadosCSharp\obj\Debug\netcoreapp3.1\entradaDeDadosCSharp.genruntimeconfig.cache
