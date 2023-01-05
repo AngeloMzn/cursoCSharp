@@ -1,0 +1,13 @@
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\matrizCSharp\obj\Debug\netcoreapp3.1\matrizCSharp.csprojAssemblyReference.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\matrizCSharp\obj\Debug\netcoreapp3.1\matrizCSharp.AssemblyInfoInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\matrizCSharp\obj\Debug\netcoreapp3.1\matrizCSharp.AssemblyInfo.cs
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\matrizCSharp\obj\Debug\netcoreapp3.1\matrizCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\matrizCSharp\bin\Debug\netcoreapp3.1\matrizCSharp.exe
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\matrizCSharp\bin\Debug\netcoreapp3.1\matrizCSharp.deps.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\matrizCSharp\bin\Debug\netcoreapp3.1\matrizCSharp.runtimeconfig.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\matrizCSharp\bin\Debug\netcoreapp3.1\matrizCSharp.runtimeconfig.dev.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\matrizCSharp\bin\Debug\netcoreapp3.1\matrizCSharp.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\matrizCSharp\bin\Debug\netcoreapp3.1\matrizCSharp.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\matrizCSharp\obj\Debug\netcoreapp3.1\matrizCSharp.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\matrizCSharp\obj\Debug\netcoreapp3.1\matrizCSharp.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\matrizCSharp\obj\Debug\netcoreapp3.1\matrizCSharp.genruntimeconfig.cache
