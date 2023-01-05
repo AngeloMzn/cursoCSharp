@@ -1,0 +1,13 @@
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\saidaDeDadosCSharp\obj\Debug\netcoreapp3.1\saidaDeDadosCSharp.csprojAssemblyReference.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\saidaDeDadosCSharp\obj\Debug\netcoreapp3.1\saidaDeDadosCSharp.AssemblyInfoInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\saidaDeDadosCSharp\obj\Debug\netcoreapp3.1\saidaDeDadosCSharp.AssemblyInfo.cs
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\saidaDeDadosCSharp\obj\Debug\netcoreapp3.1\saidaDeDadosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\saidaDeDadosCSharp\bin\Debug\netcoreapp3.1\saidaDeDadosCSharp.exe
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\saidaDeDadosCSharp\bin\Debug\netcoreapp3.1\saidaDeDadosCSharp.deps.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\saidaDeDadosCSharp\bin\Debug\netcoreapp3.1\saidaDeDadosCSharp.runtimeconfig.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\saidaDeDadosCSharp\bin\Debug\netcoreapp3.1\saidaDeDadosCSharp.runtimeconfig.dev.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\saidaDeDadosCSharp\bin\Debug\netcoreapp3.1\saidaDeDadosCSharp.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\saidaDeDadosCSharp\bin\Debug\netcoreapp3.1\saidaDeDadosCSharp.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\saidaDeDadosCSharp\obj\Debug\netcoreapp3.1\saidaDeDadosCSharp.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\saidaDeDadosCSharp\obj\Debug\netcoreapp3.1\saidaDeDadosCSharp.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\saidaDeDadosCSharp\obj\Debug\netcoreapp3.1\saidaDeDadosCSharp.genruntimeconfig.cache
