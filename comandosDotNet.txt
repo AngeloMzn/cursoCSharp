@@ -1,0 +1,5 @@
+dotnet new console // criar novo projeto
+
+dotnet run // compilar o projeto
+
+OBS para ficar mais rapido: ctrl + j para abrir e fechar a aba do terminal
