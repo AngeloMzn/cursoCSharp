@@ -1,0 +1,13 @@
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\vetoresCSharp\bin\Debug\netcoreapp3.1\vetoresCSharp.exe
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\vetoresCSharp\bin\Debug\netcoreapp3.1\vetoresCSharp.deps.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\vetoresCSharp\bin\Debug\netcoreapp3.1\vetoresCSharp.runtimeconfig.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\vetoresCSharp\bin\Debug\netcoreapp3.1\vetoresCSharp.runtimeconfig.dev.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\vetoresCSharp\bin\Debug\netcoreapp3.1\vetoresCSharp.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\vetoresCSharp\bin\Debug\netcoreapp3.1\vetoresCSharp.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\vetoresCSharp\obj\Debug\netcoreapp3.1\vetoresCSharp.csprojAssemblyReference.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\vetoresCSharp\obj\Debug\netcoreapp3.1\vetoresCSharp.AssemblyInfoInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\vetoresCSharp\obj\Debug\netcoreapp3.1\vetoresCSharp.AssemblyInfo.cs
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\vetoresCSharp\obj\Debug\netcoreapp3.1\vetoresCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\vetoresCSharp\obj\Debug\netcoreapp3.1\vetoresCSharp.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\vetoresCSharp\obj\Debug\netcoreapp3.1\vetoresCSharp.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\vetoresCSharp\obj\Debug\netcoreapp3.1\vetoresCSharp.genruntimeconfig.cache
