@@ -1,0 +1,13 @@
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\ProcessamentoCastingCSharp\bin\Debug\netcoreapp3.1\ProcessamentoCastingCSharp.exe
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\ProcessamentoCastingCSharp\bin\Debug\netcoreapp3.1\ProcessamentoCastingCSharp.deps.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\ProcessamentoCastingCSharp\bin\Debug\netcoreapp3.1\ProcessamentoCastingCSharp.runtimeconfig.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\ProcessamentoCastingCSharp\bin\Debug\netcoreapp3.1\ProcessamentoCastingCSharp.runtimeconfig.dev.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\ProcessamentoCastingCSharp\bin\Debug\netcoreapp3.1\ProcessamentoCastingCSharp.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\ProcessamentoCastingCSharp\bin\Debug\netcoreapp3.1\ProcessamentoCastingCSharp.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\ProcessamentoCastingCSharp\obj\Debug\netcoreapp3.1\ProcessamentoCastingCSharp.csprojAssemblyReference.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\ProcessamentoCastingCSharp\obj\Debug\netcoreapp3.1\ProcessamentoCastingCSharp.AssemblyInfoInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\ProcessamentoCastingCSharp\obj\Debug\netcoreapp3.1\ProcessamentoCastingCSharp.AssemblyInfo.cs
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\ProcessamentoCastingCSharp\obj\Debug\netcoreapp3.1\ProcessamentoCastingCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\ProcessamentoCastingCSharp\obj\Debug\netcoreapp3.1\ProcessamentoCastingCSharp.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\ProcessamentoCastingCSharp\obj\Debug\netcoreapp3.1\ProcessamentoCastingCSharp.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursoCSharp\ProcessamentoCastingCSharp\obj\Debug\netcoreapp3.1\ProcessamentoCastingCSharp.genruntimeconfig.cache
