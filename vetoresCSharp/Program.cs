@@ -11,7 +11,7 @@ namespace vetoresCSharp
             Console.WriteLine("digite o tamanho do vetor: ");
             n = int.Parse(Console.ReadLine());
 
-            double[] vet = new double[n];
+            double[] vet = new double[n]; // criação do vetor na memoria
 
             for(int i = 0; i < n; i++)
             {
